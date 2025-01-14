@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as e,b as r,c as i,d as p,e as n,l as m,n as s,o as a,r as f,x as c}from"./chunk-RMPKOU42.mjs";var d=(()=>{class o{constructor(){this.title="fedex_web_demo"}static{this.\u0275fac=function(t){return new(t||o)}}static{this.\u0275cmp=e({type:o,selectors:[["app-root"]],standalone:!0,features:[n],decls:2,vars:0,template:function(t,h){t&1&&(r(0,"h1"),p(1,"This is a testing app created by - Oindrila Ghosh"),i())}})}}return o})();var l=[];var u={providers:[c(l),a()]};var C={providers:[f()]},g=m(u,C);var x=()=>s(d,g),H=x;export{H as a};
